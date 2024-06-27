@@ -1,5 +1,6 @@
 # E-commerce-Sales-Dashboard
 
+# Overview 
 In this project, i have made an intractive Power BI Sales Dashboard on Madhav E-commerce sales data and found out some meaningful insights from the data. In order to build an interactive and innovative dashboard the ETL process was done as per the requirements, Power query was used to clean and transform the data.
 After the compeletion of the ETL process the transformed highly meaningful data was further brought down to create a creative interactive report by using different graphs, charts and  slicers etc,which helped in understanding the data in a more easier way and to find out useful insights for the same.  
 
@@ -33,7 +34,8 @@ Power Query
 
 
 # Dashboard Insights
- 1.) Maximum transactions are COD (cash on delivery) with quantity (2k) and then UPI with (1k).
+ 1.) Maximum transactions are COD (cash on delivery) and UPI with quantity 2,000 and 1,000 respectively.
+ 
  
  2.) Months with maximum profits are November (10,253) and January (9,684).
  
@@ -49,12 +51,11 @@ Power Query
 
 2.) Utilization of complex parameters for drill-down analysis and filter customization.
 
-3.) Data manipulation techniques: connections, table joins, calculations, and user-driven parameters for visualization
-
 4.) Various visualization types used: bar graph, chart, donut chart, clustered bar graph, slicers, etc.
 
 
 # Conclusion
 
 The final conclusion to improve Madhav E-Commerce Sales Dashboard would be to target the months suffering losses and turn them into profits by providing summer/winter or seasonal sale offers on Clothing and electronics for particularly states like Maharashtra, Madhya Pradesh and Uttar Pradesh.
+
 
