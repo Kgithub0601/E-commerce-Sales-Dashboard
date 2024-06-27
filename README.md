@@ -15,8 +15,10 @@ In order to run this project, you need to ensure that you have *Microsoft Power 
 
  
 # Tools utilised
-Microsoft excel
+Microsoft Excel
+
 Microsoft Power BI
+
 Power Query
 
 
@@ -29,6 +31,7 @@ Power Query
 
 # Dashboard Insights
  1.) Maximum transactions are COD (cash on delivery) with quantity (2k) and then UPI with (1k).
+ 
  2.) Months with maximum profits are November (10,253) and January (9,684).
  3.) Months with losses are May, July ,September and December.
  4.) States with maximum contribution in sales are Maharashtra, Madhya Pradesh and Uttar Pradesh.
