@@ -29,6 +29,7 @@ Power Query
 
 ![Madhav E-commerce Dashboard](https://github.com/Kgithub0601/E-commerce-Sales-Dashboard/assets/171867353/2efc4843-c39d-4c71-89b7-fc451c50bcd6)
 
+![Madhav E-commerce insights](https://github.com/Kgithub0601/E-commerce-Sales-Dashboard/assets/171867353/69cdad5f-f822-49cd-ae3b-e5bfcbc95e8d)
 
 
 
