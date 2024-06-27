@@ -12,7 +12,7 @@ The  main objective of creating this sales dashboard was to analyse the total sa
 
 
 # Installation
-In order to run this project, you need to ensure that you have *Microsoft Power BI* installed in your system.
+In order to run this project, you need to ensure that you have **Microsoft Power BI** installed in your system.
  
 
  
